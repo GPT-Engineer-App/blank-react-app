@@ -3,3 +3,6 @@ build = "npm run build"
 
 [gptengineer-app]
 project_id = "c50d6df1-405c-4dff-bb36-67306cfae932"
+
+[[gptengineer-app.openapi]]
+url = "https://raw.githubusercontent.com/thatapicompany/apis/main/theCatAPI.com/thecatapi-oas.yaml"
